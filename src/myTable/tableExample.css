@@ -1,0 +1,20 @@
+.cell-centered {
+  text-align: center;
+}
+.cell-right {
+  text-align: right;
+}
+.table-example {
+  font-size: 14px;
+  font-family: "Proxima Nova", Helvetica, sans-serif;
+}
+.btn-outline.btn-info {
+  border-color: #00788d;
+  color: #00788d;
+  background-color: white;
+}
+.fixedDataTableCellLayout_main {
+  border-right-style: none;
+  border-right-width: 0px;
+  border-width: 0px;
+}
